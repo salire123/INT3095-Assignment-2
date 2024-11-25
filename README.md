@@ -43,8 +43,14 @@ python main.py
     - Progress through game rounds
     - View city statistics
 
+## branch
+- main: main branch
+- develop: develop branch
+
 
 ## Authors
 Simon
 ## Version
 1.0 (2024-11-25)
+
+
